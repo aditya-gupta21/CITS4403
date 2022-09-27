@@ -2,6 +2,12 @@
 
 code/*.pdf
 
+.DS_Store
+
+*checkpoint.ipynb
+
+*.png
+
 # C extensions
 *.so
 
